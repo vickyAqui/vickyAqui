@@ -16,9 +16,8 @@ Aqui você encontrará projetos pessoais, estudos de tecnologias, implementaçõ
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Email](mailto:seuemail@exemplo.com)
-
+- [LinkedIn](https://https://www.linkedin.com/in/victoria-peixoto-de-oliveira-154970356/)
+- [Email](mailto:galaxy.o.peixoto@gmail.com)
 <!-- Estatísticas do GitHub (opcional, remova se não quiser) -->
 <!--
 ![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
