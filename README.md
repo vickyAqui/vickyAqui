@@ -2,6 +2,8 @@
 
 Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, backend e bancos de dados relacionais. Gosto de escrever código limpo, escalável e bem documentado. Trabalho com foco em entregas consistentes, boas práticas e melhoria contínua.
 
+---
+
 ## 💼 Tecnologias e Ferramentas
 
 - **Linguagens:** Python, Java, JavaScript, HTML, CSS, SQL  
@@ -10,16 +12,27 @@ Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, ba
 - **Versionamento:** Git & GitHub  
 - **Outros:** APIs REST, integração com bancos de dados, testes automatizados
 
-## 📌 Sobre meus repositórios
+---
 
-Aqui você encontrará projetos pessoais, estudos de tecnologias, implementações de APIs, e outras iniciativas que reforçam meu aprendizado e compartilham conhecimento.
+## 🌱 Atualmente estudando
+
+- Testes automatizados com Pytest e JUnit  
+- Integração contínua e deploy com Docker  
+- Arquitetura limpa e boas práticas de backend
+
+---
+
+## 📚 Certificações e Cursos
+
+- Formação Python Developer – Curso em Vídeo 
+- SQL para Análise de Dados – Etec Cidade Tiradentes
+- Fundamentos de Java POO – Etec Cidade Tiradentes 
+
+---
 
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/victoria-peixoto-de-oliveira-154970356/)
 - [Email](mailto:galaxy.o.peixoto@gmail.com)
-<!-- Estatísticas do GitHub (opcional, remova se não quiser) -->
-<!--
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
--->
 
+[Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default)
