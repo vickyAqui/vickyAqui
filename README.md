@@ -6,43 +6,57 @@ Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, ba
 
 ## 💼 Tecnologias e Ferramentas
 
-- **Linguagens:** Python, Java, JavaScript, HTML, CSS, SQL  
-- **Frameworks:** Django, Node.js  
-- **Bancos de Dados:** PostgreSQL, MySQL, SQL Server  
-- **Versionamento:** Git & GitHub  
-- **Outros:** APIs REST, integração com bancos de dados, testes automatizados
+### Linguagens  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" alt="HTML5" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" alt="CSS3" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" alt="SQL" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" />    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" />
+### Frameworks  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" />
 
+### Bancos de Dados  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" alt="PostgreSQL" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" alt="SQL Server" />
+
+### Versionamento  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" alt="Git" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30" alt="GitHub" />
 
 ---
 
 ## 🌱 Atualmente estudando
 
-- Testes automatizados com Pytest e JUnit  
-- Integração contínua e deploy com Docker  
+- Testes automatizados com **Pytest** e **JUnit**  
+- Integração contínua e deploy com **Docker**  
 - Arquitetura limpa e boas práticas de backend
 
 ---
 
 ## 📚 Certificações e Cursos
 
-- Formação Python Developer – Curso em Vídeo 
-- SQL para Análise de Dados – Etec Cidade Tiradentes
-- Fundamentos de Java POO – Etec Cidade Tiradentes 
+- Formação Python Developer – Curso em Vídeo  
+- SQL para Análise de Dados – Etec Cidade Tiradentes  
+- Fundamentos de Java POO – Etec Cidade Tiradentes  
 
 ---
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/victoria-peixoto-de-oliveira-154970356/)
-- [Email](mailto:galaxy.o.peixoto@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/victoria-peixoto-de-oliveira-154970356/)  
+- [Email](mailto:galaxy.o.peixoto@gmail.com)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vicky's GitHub stats](https://github-readme-stats.vercel.app/api?username=vickyAqui&show_icons=true&theme=rose_pine)
-<img src="https://github-readme-stats.vercel.app/api?username=vickyAqui&show_icons=true&theme=dark" width="600"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vickyAqui&layout=compact&theme=rose_pine)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=vickyAqui&show_icons=true&theme=rose_pine" width="48%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyAqui&layout=compact&theme=rose_pine" width="48%" />
 
+<br clear="both" />
