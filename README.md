@@ -56,10 +56,10 @@ Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, ba
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=vickyAqui&show_icons=true&theme=rose_pine&hide_rank=true" width="300" />
+<img src="https://github-readme-stats.vercel.app/api?username=vickyAqui&show_icons=true&theme=rose_pine&hide_rank=true" width="400" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyAqui&layout=compact&theme=rose_pine" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vickyAqui&layout=compact&theme=rose_pine" width="400" />
 
 <br clear="both" />
