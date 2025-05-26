@@ -1,4 +1,4 @@
-# 👩‍💻 Vicky | Desenvolvedora de Software
+# 👩‍💻 Victoria Peixoto | Desenvolvedora de Software
 
 Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, backend e bancos de dados relacionais. Gosto de escrever código limpo, escalável e bem documentado. Trabalho com foco em entregas consistentes, boas práticas e melhoria contínua.
 
