@@ -1,10 +1,10 @@
-# 👩‍💻 Victoria Peixoto | Desenvolvedora de Software
+# Victoria Peixoto | Desenvolvedora de Software
 
 Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, backend e bancos de dados relacionais. Gosto de escrever código limpo, escalável e bem documentado. Trabalho com foco em entregas consistentes, boas práticas e melhoria contínua.
 
 ---
 
-## 💼 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ### Linguagens  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python" /> &nbsp;
@@ -19,6 +19,7 @@ Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, ba
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" alt="Django" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30" alt="Flask" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React" />
 
 ### Bancos de Dados  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL" /> &nbsp;
@@ -31,19 +32,18 @@ Olá! Sou desenvolvedora de software com experiência em desenvolvimento web, ba
 
 ---
 
-## 🌱 Atualmente estudando
+## Atualmente estudando
 
-- Testes automatizados com **Pytest** e **JUnit**  
+- Testes automatizados com **Node**  
 - Integração contínua e deploy com **Docker**  
 - Arquitetura limpa e boas práticas de backend
 
 ---
 
-## 📚 Certificações e Cursos
+## Certificações e Cursos
 
 - Formação Python Developer – Curso em Vídeo  
 - SQL para Análise de Dados – Etec Cidade Tiradentes  
-- Fundamentos de Java POO – Etec Cidade Tiradentes  
+- Fundamentos de Java POO – Etec Cidade Tiradentes
 
 ---
-
